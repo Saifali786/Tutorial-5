@@ -1,4 +1,4 @@
-const router = require("./Router/routes");
+const router = require("./Router/userRoutes");
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 3000;

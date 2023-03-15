@@ -3,4 +3,4 @@ const users = [
   { email: "xyz@xyz.ca", id: 2, firstName: "Parul" },
   { email: "lol@lol.ca", id: 3, firstName: "Faiza" },
 ];
-module.exports = users
+module.exports = users;
